@@ -11,7 +11,7 @@ Hardware : Raspberry Pi
 
 Prerequisites;
   This program runs on the top of Python and Rpi.GPIO library.
-  Gmail parser comes from libgmail and feedparser
+  Gmail parser comes from libgmail and feedparser.
 
 
 How this works.
