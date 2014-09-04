@@ -1,9 +1,9 @@
 RaspberryLCDNotifier
 ====================
 
-Raspberry Pi LCD notifier in Python<br>
-Shows number of unread email on dot matrix LCD.<br>
-Email status updates every sec.<br>
+* Raspberry Pi LCD notifier in Python
+* Shows number of unread email on dot matrix LCD.
+* Email status updates every sec.
 
 
 Hardware
@@ -33,6 +33,6 @@ How this works
 
 Reference
 ------------
- http://www.rpiblog.com/2012/11/interfacing-16x2-lcd-with-raspberry-pi.html
- https://pypi.python.org/pypi/RPi.GPIO
+* http://www.rpiblog.com/2012/11/interfacing-16x2-lcd-with-raspberry-pi.html
+* https://pypi.python.org/pypi/RPi.GPIO
  
