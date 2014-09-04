@@ -11,10 +11,16 @@ Hardware
 * Raspberry Pi
 * 16x2 dot matrix LCD
 
+How to use it.
+-----------------
+1. install RPi GPIO; https://pypi.python.org/pypi/RPi.GPIO
+2. Update   USERNAME and PASSWORD in line 205
+3. Enjoy then..
 
-Prerequisites
+
+Prerequisites/Library 
 --------------
-* This program runs on the top of Python and Rpi.GPIO library.
+* This program runs on the top of Python and Rpi.GPIO library. https://pypi.python.org/pypi/RPi.GPIO
 * Gmail parser comes from libgmail and feedparser.
 
 
@@ -28,3 +34,5 @@ How this works
 Reference
 ------------
  http://www.rpiblog.com/2012/11/interfacing-16x2-lcd-with-raspberry-pi.html
+ https://pypi.python.org/pypi/RPi.GPIO
+ 
