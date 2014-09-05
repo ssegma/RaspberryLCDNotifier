@@ -1,6 +1,8 @@
 RaspberryLCDNotifier
 ====================
 
+![RpiGmailer](https://github.com/ssegma/RaspberryLCDNotifier/blob/master/Rpi_Gmailnotifier.jpg)
+
 * Raspberry Pi LCD notifier in Python
 * Shows number of unread email on dot matrix LCD.
 * Email status updates every sec.
