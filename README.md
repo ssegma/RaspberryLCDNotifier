@@ -16,8 +16,9 @@ Hardware
 How to use it.
 -----------------
 1. install RPi GPIO; https://pypi.python.org/pypi/RPi.GPIO
-2. Update   USERNAME and PASSWORD in line 205
-3. Enjoy then..
+2. install feedparser ;; sudo pip install feedparser 
+3. Update   USERNAME and PASSWORD in line 205
+4. Enjoy then..
 
 
 Prerequisites/Library 
